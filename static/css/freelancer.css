@@ -181,7 +181,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #18BC9C;
+  background: #000000;
   color: white;
 }
 @media (max-width: 767px) {
@@ -366,8 +366,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: white;
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #000000;
+  border-color: #000000;
   font-weight: 700;
 }
 .btn-success:hover,
@@ -399,11 +399,11 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #000000;
+  border-color: #000000;
 }
 .btn-success .badge {
-  color: #18BC9C;
+  color: #000000;
   background-color: white;
 }
 .btn-social {
